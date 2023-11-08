@@ -1,5 +1,6 @@
 # Kodluyoruz-ilk-web-sayfasi-repo
 Kodluyoruz ilk web sitesi 
+Bu reponun içerisinde bir readme.md, bir de index.html mevcut.
 <h1>Begüm Taşar</h1>
 
 <!-- alt basliklara gecildi-->
